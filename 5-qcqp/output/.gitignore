@@ -1,0 +1,5 @@
+# Exclude any result directories from git tracking...
+*
+
+# ...but ignore this particular file.
+!.gitignore
